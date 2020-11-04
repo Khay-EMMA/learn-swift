@@ -1,3 +1,3 @@
-print("Hello, Swift Apprentice reader!")
+var str = "Hello Njoku Emmanuel";
 
-
+print(str);
